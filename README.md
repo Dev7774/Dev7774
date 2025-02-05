@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Python, AI and Generative AI**
 
-- 💬 Ask me about **.NET, Node js, Nest js, React, Next js**
+- 💬 Ask me about **.NET, Node js, Nest js,Angular, React, Next js**
 
 - 📫 How to reach me **7774devansh@gmail.com**
 
