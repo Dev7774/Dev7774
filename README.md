@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<h3 align="center">A passionate full stack developer from India</h3>
+<h3 align="center">A passionate full stack developer</h3>
 
 - 🌱 I’m currently learning **Python, AI and Generative AI**
 
