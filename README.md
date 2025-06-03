@@ -1,16 +1,67 @@
-## Hi there 👋
+# Hi there 👋, I'm Devansh!
 
-<h3 align="center">A passionate full stack developer</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Dev7774&label=Profile%20views&color=0e75b6&style=flat" alt="devansh7774" /> </p>
 
-- 🌱 I’m currently learning **Python, AI and Generative AI**
+## 🎯 **Passionate Full Stack Developer | Node js and React Expert | .NET Developer | SaaS Product Creator | Full-Time Freelancer**
 
-- 💬 Ask me about **.NET, Node js, Nest js,Angular, React, Next js**
+Welcome to my GitHub profile! I'm a **Full Stack Developer** with over **5 years of experience** creating scalable and user-friendly web and mobile applications. My expertise lies in building **web app and mobile applications** using technologies like **.NET, Node.js, React, Next.js, and Flutter**. Currently, I'm working on an innovative **SaaS product** to revolutionize business efficiency. As a **full-time freelancer**, I am committed to delivering high-quality projects to meet client goals.
 
-- 📫 How to reach me **7774devansh@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+## 🚀 About Me
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+- 🔭 I’m currently working on a **SaaS product** to improve business workflows.
+- 🌱 I’m learning **advanced backend development** and **AI/ML**.
+- 💬 Ask me about **Full Stack**, **cloud integrations**, and crafting **scalable cross-platform apps**.
+- 📫 Reach me at: [devansh.patel.tech@gmail.com](mailto:devansh.patel.tech@gmail.com)
+- ⚡ Passionate about building high-performance applications with seamless cross-platform functionality and user experience.
+
+---
+
+## 🌟 Highlights
+
+- 💎 freelancer on Upwork
+- 🚀 Architect of scalable admin panels, booking engines, and reporting systems used by 200+ customers.
+- 🔁 Expert in reusable UI components, dynamic forms, date handling, and smart filtering/pagination strategies.
+- 🧩 Proven ability to integrate complex features: calendar logic, audit trails, approval workflows, and multi-select logic.
+- 📦 Strong backend experience with REST APIs, background jobs, multi-database setups, and localization (i18n).
+- 🛡️ Committed to performance, maintainability, and data security in enterprise-grade applications.
+- 🌍 Open to freelance projects, collaborations, and exciting opportunities in Full Stack development.
+
+---
+
+## 🚀 Technologies I Work With
+
+- **Frontend**: React, Next.js, Angular 10 +, JavaScript, jQuery, HTML5, CSS3, SCSS, Bootstrap
+- **Backend**: .Net Core Web API, EF core(ORM), .Net MVC, Node Js, sequelize(ORM), Nest Js, Django,RabbitMQ
+- **Cloud**: Azure, AWS (Code Deploy, S3, EC2, SES)
+- **Databases**: PostgreSQL, MongoDB, MS SQL Server, My SQL Server, Firestore
+- **Frameworks**: NodeJS, Nest Js, Next Js, MVC, Software Development
+- **Tools**: Git, VS Code, Xcode, Android Studio
+- **Other Skills**: Socket.io , Git, SVN, CI/CD, Linux, Docker, Postman
+- **Other Skills**: OpenAI APIs, Stripe, Twilio, Skyscanner, Google Maps
+
+---
+
+## 📊 GitHub Stats
+
+### 🔥 My GitHub Streak
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Dev7774&theme=merko&fire=00ffcc&ring=00ffcc&currStreakLabel=ffffff&sideNums=ffffff&background=000000&border=000000&stroke=00ffcc)
+
+### 💻 GitHub Profile Stats
+![Devansh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dev7774&show_icons=true&count_private=true&include_all_commits=true&theme=merko&title_color=00ffcc&text_color=ffffff&bg_color=000000&hide_border=true&border_radius=10)
+
+### 🔝 Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dev7774&layout=compact&theme=merko&title_color=00ffcc&text_color=ffffff&bg_color=000000&hide_border=true&border_radius=10&count_private=true)
+
+---
+
+## 🌐 Connect With Me  
+
+- 💼 [Upwork Profile](https://www.upwork.com/freelancers/~010456c28aa0a19c78?mp_source=share)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/ce-devansh1609/)
+
+
+---
+
+Feel free to explore my repositories, fork projects, or open issues if you have any questions! 🌟
