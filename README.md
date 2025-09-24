@@ -2,9 +2,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Dev7774&label=Profile%20views&color=0e75b6&style=flat" alt="devansh7774" /> </p>
 
-## 🎯 **Passionate Full Stack Developer | Node js and React Expert | .NET Developer | SaaS Product Creator | Full-Time Freelancer**
+## 🎯 **Passionate Full Stack Developer | Node js and React Expert | .NET Developer | SaaS Product Creator**
 
-Welcome to my GitHub profile! I'm a **Full Stack Developer** with over **5 years of experience** creating scalable and user-friendly web and mobile applications. My expertise lies in building **web app and mobile applications** using technologies like **.NET, Node.js, React, Next.js, and Flutter**. Currently, I'm working on an innovative **SaaS product** to revolutionize business efficiency. As a **full-time freelancer**, I am committed to delivering high-quality projects to meet client goals.
+Welcome to my GitHub profile! I'm a **Full Stack Developer** with over **5 years of experience** creating scalable and user-friendly web and mobile applications. My expertise lies in building **web app and mobile applications** using technologies like **.NET, Node.js, React, Next.js, and Flutter**. Currently, I'm working on an innovative **SaaS product** to revolutionize business efficiency. As a **full-time available**, I am committed to delivering high-quality projects to meet client goals.
 
 ---
 
@@ -20,7 +20,7 @@ Welcome to my GitHub profile! I'm a **Full Stack Developer** with over **5 years
 
 ## 🌟 Highlights
 
-- 💎 freelancer on Upwork
+- 💎 Available on Upwork
 - 🚀 Architect of scalable admin panels, booking engines, and reporting systems used by 200+ customers.
 - 🔁 Expert in reusable UI components, dynamic forms, date handling, and smart filtering/pagination strategies.
 - 🧩 Proven ability to integrate complex features: calendar logic, audit trails, approval workflows, and multi-select logic.
