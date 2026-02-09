@@ -20,7 +20,6 @@ Welcome to my GitHub profile! I'm a **Full Stack Developer** with over **5 years
 
 ## 🌟 Highlights
 
-- 💎 Available on Upwork
 - 🚀 Architect of scalable admin panels, booking engines, and reporting systems used by 200+ customers.
 - 🔁 Expert in reusable UI components, dynamic forms, date handling, and smart filtering/pagination strategies.
 - 🧩 Proven ability to integrate complex features: calendar logic, audit trails, approval workflows, and multi-select logic.
