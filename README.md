@@ -4,7 +4,7 @@
 
 ## 🎯 **Passionate Full Stack Developer | Node js and React Expert | .NET Developer | SaaS Product Creator**
 
-Welcome to my GitHub profile! I'm a **Full Stack Developer** with over **5 years of experience** creating scalable and user-friendly web and mobile applications. My expertise lies in building **web app and mobile applications** using technologies like **.NET, Node.js, React, Next.js, and Flutter**. Currently, I'm working on an innovative **SaaS product** to revolutionize business efficiency. As a **full-time available**, I am committed to delivering high-quality projects to meet client goals.
+Welcome to my GitHub profile! I'm a **Full Stack Developer** with over **6 years of experience** creating scalable and user-friendly web and mobile applications. My expertise lies in building **web app and mobile applications** using technologies like **.NET, Node.js, React, Next.js, and Flutter**. Currently, I'm working on an innovative **SaaS product** to revolutionize business efficiency. As a **full-time available**, I am committed to delivering high-quality projects to meet client goals.
 
 ---
 
